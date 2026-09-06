@@ -1,11 +1,15 @@
 # Alejandro Garbi
 
-Fullstack engineer in Calgary. I build web applications and the services behind them in TypeScript and Node.js.
+Fullstack software engineer · Calgary
 
-Comfortable across the stack: GraphQL (including federated graphs), REST, React, relational and document data stores, Redis, and AWS with Terraform and Docker. Used to work that spans several codebases at once — APIs, data models, UI, and infrastructure — and to owning what ships, including production issues.
+Fullstack engineer with 10+ years designing, shipping, and operating web applications in TypeScript and Node.js. I have built products from early delivery through production ownership: APIs, UIs, data models, and cloud infrastructure, including changes that span multiple services.
 
-Public experiment: [3D Brain Anatomy](https://github.com/alexgarbi10/threejs) (Three.js, WebGL, Vite).
+**Current tech:** TypeScript, Node.js, GraphQL (Apollo Federation), REST, React, MongoDB, PostgreSQL, Redis, AWS, Terraform, Docker, serverless
+
+**Past tech:** Sails.js, Express, Angular, MySQL, Three.js, Mocha, Alicloud
+
+**Other:** TDD, domain modeling, Git, CI/CD, Linux
 
 Spanish (native) · English (professional)
 
-TypeScript · Node.js · GraphQL · React · MongoDB · PostgreSQL · Redis · AWS · Terraform · Docker
+[alexgarbi10.github.io](https://alexgarbi10.github.io/) · [LinkedIn](https://www.linkedin.com/in/alexgarbi10/)
