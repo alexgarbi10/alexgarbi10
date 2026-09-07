@@ -12,4 +12,9 @@ Fullstack engineer with 10+ years designing, shipping, and operating web applica
 
 Spanish (native) · English (professional)
 
+**Projects**
+
+- **[Tactics Lab FC](https://alexgarbi10.github.io/tactics-lab-fc/)** — football tactics board (React + Vite)
+- **[3D brain](https://alexgarbi10.github.io/threejs/)** — interactive Three.js visualization
+
 [alexgarbi10.github.io](https://alexgarbi10.github.io/) · [LinkedIn](https://www.linkedin.com/in/alexgarbi10/)
